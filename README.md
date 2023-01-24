@@ -2,7 +2,7 @@
 
 ![cover](.../../assets/demo.jpg)
 
-View Demo <a href="" target="_blank">Study Me</a> 
+View Demo <a href="https://study-me.netlify.app/" target="_blank">Study Me</a> 
 
 ## 🦉 Main information
 
